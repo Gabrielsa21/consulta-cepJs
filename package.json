@@ -1,0 +1,21 @@
+{
+  "name": "consulta-cep-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cep.js",
+  "scripts": {
+    "ajuda": "clear && gulp --help",
+    "start": "gulp scripts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cli": "^1.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.0"
+  }
+}
